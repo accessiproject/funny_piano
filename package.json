@@ -9,7 +9,9 @@
   },
   "dependencies": {
     "@giphy/js-fetch-api": "^1.7.0",
+    "@giphy/react-components": "^1.9.1",
     "core-js": "^3.6.5",
+    "giphy": "0.0.4",
     "vue": "^2.6.11"
   },
   "devDependencies": {
